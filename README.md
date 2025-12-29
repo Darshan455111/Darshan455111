@@ -58,8 +58,6 @@
 
 ## 🚧 Featured Projects
 
-> 🔥 Pin these repositories on your profile for max visibility.
-
 - 🩺 **Automatic Health Monitoring System**  
   Smart IoT‑based health monitoring with real‑time vitals and alerting for patients.  
 
@@ -72,24 +70,9 @@
 - 🛍️ **FashCart – Fashion E‑commerce**  
   E‑commerce prototype with product listing, cart, and basic checkout flow.  
 
-_Add live links and repo links here once you finalize names and URLs._
-
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan455111&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan455111&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan455111&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -98,7 +81,4 @@ _Add live links and repo links here once you finalize names and URLs._
 ---
 
 ## 🤝 Let’s Connect
-
-- 💬 Ask me about **Java**, **web dev**, **AI/ML**, or **automation**
-- 📧 Reach me: `yourmail@example.com`
-- 🔗 Portfolio / website: *coming soon*
+- 📧 Reach me: `darshantelangar@gmail.com`
