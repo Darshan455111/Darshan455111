@@ -54,12 +54,6 @@ AI-powered Smart Tourism Platform built using **Next.js, React, TypeScript, Post
 ### 🌦 Weather Application
 Responsive weather application that provides real-time weather information using Weather APIs.
 
-### ☕ Java Full Stack Projects
-- Employee Management System
-- Authentication System
-- CRUD REST APIs
-- Spring Boot Applications
-- React Projects
 
 ---
 
